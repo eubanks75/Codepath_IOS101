@@ -4,7 +4,8 @@ Learning the fundamentals of iOS development, using Xcode and Swift languages.
 - Feel free to play around with other elements, such as image views, textfields, etc.
 - Implement a way to change the color of the text as well
 - I have added 3 labels and a button that changes the background color when clicked.
-- **3 of my Favorite Applications and 3 features**
+
+**3 of my Favorite Applications and 3 features**
 - 1.Instagram, I love the AR feature for pages like TinydoorsAtl and also the algortithm
 - 2.TikTok, I like the app for the simplicity and UI and also the algorithm.
 - 3. Apple Music, I like this application because of how it integrates with apple devices and UI and ease of use.
