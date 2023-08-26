@@ -11,3 +11,5 @@ Learning the fundamentals of iOS development, using Xcode and Swift languages.
   
 **Application I would Like to develop or improve upon**
 - I would like to develop an app similar to StockX or Goat, which mainly resells popular clothing and sneaker items.  with a more user friendly UI. I would also like to incorporate a feature that can authenticate the item beforehand using similar technology to Gold Goose brand or  Spatial labs. Taking a page from Craiglists, integrating a feature that allows for safe local meetups to buy and sell items.
+
+**GIF link** https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnN5c253c2UyM2psZndwcWswam5rb3dyMDl6c3lqdzc2dGZ2b2ZkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MVIgUuy2vYBEBJPiET/giphy.gif
